@@ -1,0 +1,6 @@
+name = "cfintern"
+type = "javascript"
+account_id = "18b1755b279a9d3514585e3604770bf1"
+workers_dev = true
+route = ""
+zone_id = ""
